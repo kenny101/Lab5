@@ -137,8 +137,6 @@ img.addEventListener("load", (e) => {
     dimensions.height
   );
 
-  // imgInput.disabled = true;
-
   // Some helpful tips:
   // - Fill the whole Canvas with black first to add borders on non-square images, then draw on top
   // - Clear the form when a new image is selected
