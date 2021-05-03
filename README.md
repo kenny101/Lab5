@@ -9,4 +9,4 @@ https://kenny101.github.io/Lab5/
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+https://github.com/kenny101/github-actions-for-ci/actions
